@@ -8,9 +8,8 @@ The demos uses artificially generated data, following [PySimMIBCI](https://githu
 
 Three notebook examples are provided, each one testing one of the following hypothesis:
 
-H1)
-H2)
-H3)
-
+H1) The task is performed correctly (no failed trials) regardless of ERD
+H2) The EEG patterns provided by the user correspond to the mental task to be performed
+H3) The calibration data, used to train the decoding model, contains discriminable ERD patterns
 ##### And you are ready. Happy coding!
 
