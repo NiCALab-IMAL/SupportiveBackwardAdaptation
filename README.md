@@ -1,6 +1,6 @@
 # DOMAIN ADAPTATION BASED ON OPTIMAL TRANSPORT FOR MI-BCI
 <p align="center">
-<img src="Images/transport_samples.png" width="600">
+<img src="Images/transport_samples.jpeg" width="600">
 </p>
 You will find here Python notebook demos ([Colab](https://colab.research.google.com) notebooks) that would show you how the backward formulation of optimal transport for domain adaptation ([BODTA](https://github.com/vpeterson)) can be used to improve movement decoding. 
 
