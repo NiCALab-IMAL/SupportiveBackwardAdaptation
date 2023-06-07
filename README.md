@@ -1,10 +1,10 @@
 # DOMAIN ADAPTATION BASED ON OPTIMAL TRANSPORT FOR MI-BCI
 <p align="center">
-<img src="Images/OTDA_workflow.png" width="600">
+<img src="Images/transport_samples.png" width="600">
 </p>
-You will find here Python notebook demos ([Colab](https://colab.research.google.com/) notebooks) that would show you how the backward formulation of optimal transport for domain adaptation ([BODTA](https://github.com/vpeterson)) can be used to improve movement decoding. 
+You will find here Python notebook demos ([Colab](https://colab.research.google.com) notebooks) that would show you how the backward formulation of optimal transport for domain adaptation ([BODTA](https://github.com/vpeterson)) can be used to improve movement decoding. 
 
-The demos uses artificially generated data, following [PySimMIBCI](https://github.com/catalinamagalvan/PySimMIBCI) pipeline. This proyect is a follow up of our previous publicaction: "Transfer Learning based on Optimal Transport for Motor Imagery Brain-Computer Interfaces", by Victoria Peterson, Nicol·s Nieto, Dominik Wyser, Olivier Lambercy, Roger Gassert, Diego H. Milone and Ruben D. Spies
+The demos uses artificially generated data, following [PySimMIBCI](https://github.com/catalinamagalvan/PySimMIBCI) pipeline. This proyect is a follow up of our previous publicaction: "Transfer Learning based on Optimal Transport for Motor Imagery Brain-Computer Interfaces", by Victoria Peterson, Nicol√°s Nieto, Dominik Wyser, Olivier Lambercy, Roger Gassert, Diego H. Milone and Ruben D. Spies
 
 Three notebook examples are provided, each one testing one of the following hypothesis:
 
@@ -16,12 +16,12 @@ H3) The calibration data, used to train the decoding model, contains discriminab
 
 #---- RUNNING THE NOTEBOOK --- 
 
-Notebook are written so as to be easily run in Colab. In order to run the notebook, you should follow these simple steps:
+Notebook are written to be easily run in Colab. In order to run the notebooks, you should follow these simple steps:
 
 1. Make a copy of the used data folder into your Drive. Click [here](https://drive.google.com/drive/folders/1fk8wIGDzArMl61fpPCJElyEbVRXbQjpW?usp=drive_link) to download the folder.
 2. In GitHub, go to a given notebook. Click the "Open in Colab" button on the top of the file.
-3. Make a local copy of the notebook
-4. Run the notebook
+3. Make a local copy of the notebook.
+4. Run the notebook.
 
 
 ##### And you are ready. Happy coding!
