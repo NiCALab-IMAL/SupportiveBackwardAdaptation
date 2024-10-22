@@ -18,7 +18,7 @@ From where the following main hypothesis stands:
 
 H)	``In supervised online adaptation based on BOTDA, the associated cost of transporting a testing trial to match the calibration data distribution reflects the MI user self-regulation capability.''
 
-# ---- RUNNING THE NOTEBOOKS --- 
+### ---- RUNNING THE NOTEBOOKS --- 
 
 Notebooks are written to be easily run in Colab. In order to run the notebooks, you should follow these simple steps:
 
