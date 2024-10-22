@@ -2,7 +2,7 @@
 <p align="center">
 <img src="Images/transport_samples.jpeg" width="600">
 </p>
-You will find here Python notebook demos maded in [Colab](https://colab.research.google.com). These demos were created to show you how the backward formulation of optimal transport for domain adaptation [BODTA](https://github.com/vpeterson/otda-mibci) can be used to build MI-BCI co-adaptive systems. In particular, we show how the cost of performing the backward adaptation can be used to assess MI self-regulation capabilities. In this way, by means of BOTDA we show that adaptation from a new session to an old one can be adressed without classifier retraining while at the same time, the MI-BCI users skills can be measured in real-time.
+You will find here Python notebook demos maded in [Colab](https://colab.research.google.com/). These demos were created to show you how the backward formulation of optimal transport for domain adaptation [BODTA](https://github.com/vpeterson/otda-mibci) can be used to build MI-BCI co-adaptive systems. In particular, we show how the cost of performing the backward adaptation can be used to assess MI self-regulation capabilities. In this way, by means of BOTDA we show that adaptation from a new session to an old one can be adressed without classifier retraining while at the same time, the MI-BCI users skills can be measured in real-time.
 
 Demos were made to show and reproduce the experiments performed in simulated data in "Towards subject-centered co-adaptive BCIs based on backward optimal transport", by Victoria Peterson, Catalina Galván, Valeria Spagnolo, Nicolás Nieto, Ruben D. Spies and Diego H. Milone. 
 
